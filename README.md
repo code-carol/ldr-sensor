@@ -1,6 +1,6 @@
 # 💡 LDR Sensor
 
-The project goal was to characterise the response of an LDR (Light Dependent Resistor) under various lighting conditions, enabling us to understand how its resistance changes with light intensity and creating an enclosure for protecting the materials.
+The project goal was to characterise the response of an LDR (Light Dependent Resistor) under various lighting conditions and creating an enclosure for protecting the materials.
 
 
 ## ⚡️ Calculated Volt 
