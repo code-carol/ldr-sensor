@@ -13,10 +13,10 @@ Volt = Vs × RLDR / (R1+RLDR)
 
 The voltage was measured under 4 different lighting conditions:
 
-1.	Ambient lighting: Base room brightness.
-2.	Darkness: LDR covered with a piece of paper.
-3.  Bright light: Flashlight with low intensity directed at the LDR.
-4.  Radiant light: Flashlight with high intensity directed at the LDR.
+1.	Darkness: LDR covered with a piece of paper.
+2.	Ambient: Base room brightness.
+3.  Bright: Flashlight with low intensity directed at the LDR.
+5.  Radiant: Flashlight with high intensity directed at the LDR.
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/4a266dfe-6b0a-43ca-b23e-6f66a58d3d28">
 
