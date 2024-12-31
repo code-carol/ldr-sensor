@@ -5,7 +5,7 @@ The project goal was to characterise the response of an LDR (Light Dependent Res
 
 ## ⚡️ Calculated Volt 
 
-Volt = Vs × RLDR / (R1+RLDR) 
+Volt = Vs × Rldr / (R1 + Rldr) 
 
 -	Vs = 6V (supply voltage),
 -	R1 = 5.1kΩ (fixed resistor),
