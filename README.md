@@ -30,9 +30,9 @@ The voltage was measured under 4 different lighting conditions:
 
 ## 🎨 Design 
 
-### TinkerCAD 3D Design 
-
 The design criteria for the enclosure focused on the protecting of the materials while embracing creativity to explore different forms with 3D printing. 
+
+### TinkerCAD 3D Design 
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/7b421c4d-664d-4364-9f01-23072cdaeb0c">
 
