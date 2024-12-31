@@ -32,6 +32,22 @@ The voltage was measured under 4 different lighting conditions:
 
 ### TinkerCAD 3D Design 
 
+The design criteria for the enclosure focused on the protecting of the materials while embracing creativity to explore different forms with 3D printing. 
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/7b421c4d-664d-4364-9f01-23072cdaeb0c">
+
+## ⭐️ Final Project
+
+The program developed for the microprocessor implements a system that monitors light levels with the current date and logs the data to a SD card while displaying the brightness level on an OLED display.
+
+### Case
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/cea2c0cd-a995-47f2-8432-b1d82dfd41e2">
+
+### Display
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/cf8be1f2-dc1a-4c62-8263-5ed7abb57ed4">
+
+
+
+
 
 
