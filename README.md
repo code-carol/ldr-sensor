@@ -9,7 +9,7 @@ Volt = Vs × Rldr / (R1 + Rldr)
 
 -	Vs = 6V (supply voltage),
 -	R1 = 5.1kΩ (fixed resistor),
--	RLDR = resistance of the LDR, which varies with light intensity.
+-	Rldr = resistance of the LDR
 
 The voltage was measured under 4 different lighting conditions:
 
