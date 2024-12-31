@@ -38,7 +38,7 @@ The design criteria for the enclosure focused on the protecting of the materials
 
 ## ⭐️ Final Project
 
-The program developed for the microprocessor implements a system that monitors light levels with the current date and logs the data to a SD card while displaying the brightness level on an OLED display.
+The program developed for the microprocessor implements a system that monitors light levels with the current date and logs the data/time to a SD card while displaying the brightness level on an OLED display.
 
 ### Case
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/cea2c0cd-a995-47f2-8432-b1d82dfd41e2">
