@@ -20,7 +20,7 @@ The voltage was measured under 4 different lighting conditions:
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/4a266dfe-6b0a-43ca-b23e-6f66a58d3d28">
 
-### TinkerCAd Simulation 
+### TinkerCad Simulation 
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/dd763c85-3d5f-41c5-b43d-04fbc842bb26">
 
